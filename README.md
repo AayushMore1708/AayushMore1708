@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-I'm Aayush More, a passionate software developer with expertise in various technologies. I specialize in **.NET**, **Android Development**, **MAUI**, and frontend frameworks like **React**, **Vue.js**, **Nuxt.js**, and backend technologies such as **Django** and **PostgreSQL**. I'm constantly learning and building projects that push my skills further. I’m always open to collaborating and learning new technologies. Let's connect!
+I'm Aayush More, a passionate Full Stack Developer with expertise in various technologies. I specialize in **.NET**, **Android Development**, **MAUI**, and frontend frameworks like **React**, **Vue.js**, **Nuxt.js**, and backend technologies such as **Django** and **PostgreSQL**. I'm constantly learning and building projects that push my skills further. I’m always open to collaborating and learning new technologies. Let's connect!
 
 ---
 
@@ -33,7 +33,7 @@ I'm Aayush More, a passionate software developer with expertise in various techn
 
 ## Mobile Development:
 - **Android**  
-- **MAUI**
+- **Dotnet MAUI And Uno Platform**
 
 ---
 
